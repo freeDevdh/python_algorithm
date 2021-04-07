@@ -46,15 +46,3 @@ s.sort(key=lambda x:(x.split()[1],x.split()[0]))
 이를 가변 길이 문자 인코딩 방식으로 효율적으로 개선한 방식이 'UTF-8'이다.  
 
 
-
-
-
-
-##문자열 라이브러리 
-1.isalnum()  
-2.lower()  
-3.sorted()  
-4.sort()  
-5.join()  
-
-
